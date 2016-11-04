@@ -1,0 +1,59 @@
+.top {
+    background-color: grey;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    /*    width: 1266px;*/
+    /*    padding-bottom: 50px;*/
+    /*    position: fixed;
+    */
+    /*    text-align: left;*/
+    /*    display: inline-block;
+    */
+}
+
+h2 {
+    float: left;
+    clear: right;
+}
+
+.links {
+    float: right;
+    /*    clear: left;
+    */
+}
+
+.links ul li {
+    float: right;
+}
+
+.search {
+    margin-top: 80px;
+}
+
+.search input {
+    width: 600px;
+    margin-bottom: 60px;
+}
+
+.search img {
+    width: 50px;
+}
+
+.pretext {
+    margin-left: 120px;
+    margin-bottom: 90px;
+}
+
+.pretext a {
+    border: 1px solid grey;
+}
+
+.posttext {
+    margin-left: 120px;
+}
+
+.posttext a {
+    color: blue;
+}
